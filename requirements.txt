@@ -1,0 +1,41 @@
+# Core dependencies
+streamlit
+streamlit-webrtc
+numpy
+pandas
+
+# Translation models
+transformers
+torch
+sentencepiece
+protobuf
+sacremoses
+
+# Speech processing
+openai-whisper
+SpeechRecognition
+pydub
+sounddevice
+soundfile
+
+# Text-to-Speech
+gtts
+pyttsx3
+pygame
+
+# Transliteration
+indic-transliteration
+pyicu
+morfessor
+
+# Audio processing
+pyaudio
+librosa
+scipy
+
+# Utilities
+python-dotenv
+tqdm
+colorama
+cachetools
+
